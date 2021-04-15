@@ -10,4 +10,5 @@ O projeto foi desenvolvido a partir das tecnologias:
 - HTML5
 - CSS3
 
-**Foi inserido o ícone do Instagram ao título da página.**
+
+***Foi inserido o ícone do Instagram ao título da página.***
